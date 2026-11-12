@@ -1,8 +1,8 @@
-<img src="assets/header.png" alt="Thomas Henrique. Building with AI. Agents, cloud, and products that ship." width="100%" />
+<img src="assets/header-sf.png" alt="Thomas Henrique. Building with AI. Agents, cloud, and products that ship." width="100%" />
 
 &nbsp;
 
-Information Systems at **Unicamp**. IT Projects Advisor at **Atria Jr.**
+Information Systems at **Unicamp**. IT Projects Advisor at **Atria Jr.**  
 Joining **Agibank's AI-Native Developers Program** on Nov 17.
 
 - Shipped **[Decide Aí](https://github.com/thomhenriq/decide-ai)**, a WhatsApp agent that orders on iFood by text, voice and image.
